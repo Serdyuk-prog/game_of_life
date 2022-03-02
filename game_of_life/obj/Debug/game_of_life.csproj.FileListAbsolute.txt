@@ -1,0 +1,10 @@
+H:\Projects\Simulation\game_of_life\game_of_life\bin\Debug\game_of_life.exe.config
+H:\Projects\Simulation\game_of_life\game_of_life\bin\Debug\game_of_life.exe
+H:\Projects\Simulation\game_of_life\game_of_life\bin\Debug\game_of_life.pdb
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.csproj.AssemblyReference.cache
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.Form1.resources
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.Properties.Resources.resources
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.csproj.GenerateResource.cache
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.csproj.CoreCompileInputs.cache
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.exe
+H:\Projects\Simulation\game_of_life\game_of_life\obj\Debug\game_of_life.pdb
